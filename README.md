@@ -1,9 +1,4 @@
-# bfx
-
-## things to add:
-
-### important thing to add
-- [] edit this file
+# pixel8
 
 ## installation
 WIP
